@@ -135,7 +135,7 @@ html {
 
 @media screen and (max-width: 1198px) {
   .container {
-    padding: 20px 30px;
+    padding: 10px 10px;
     margin: 20px auto;
   }
 
@@ -203,7 +203,7 @@ html {
 
 @media screen and (max-width: 480px) {
   .container {
-    padding: 20px 30px;
+    padding: 10px 5px;
     margin: 20px auto;
   }
 
@@ -221,7 +221,7 @@ html {
     position: absolute;
     width: 100%;
     height: 100%;
-    margin: 1px;
+    margin: 10px;
   }
   .card {
     display: flex;
@@ -263,6 +263,6 @@ html {
   }
 
   .elegant-list li {
-    font-size: 15px;
+    font-size: 14px;
   }
 }
